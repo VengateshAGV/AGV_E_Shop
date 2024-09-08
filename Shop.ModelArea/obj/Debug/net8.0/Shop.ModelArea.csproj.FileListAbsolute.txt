@@ -1,0 +1,12 @@
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Shop.ModelArea\bin\Debug\net8.0\Shop.ModelArea.deps.json
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Shop.ModelArea\bin\Debug\net8.0\Shop.ModelArea.dll
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Shop.ModelArea\bin\Debug\net8.0\Shop.ModelArea.pdb
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Shop.ModelArea\obj\Debug\net8.0\Shop.ModelArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Shop.ModelArea\obj\Debug\net8.0\Shop.ModelArea.AssemblyInfoInputs.cache
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Shop.ModelArea\obj\Debug\net8.0\Shop.ModelArea.AssemblyInfo.cs
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Shop.ModelArea\obj\Debug\net8.0\Shop.ModelArea.csproj.CoreCompileInputs.cache
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Shop.ModelArea\obj\Debug\net8.0\Shop.ModelArea.dll
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Shop.ModelArea\obj\Debug\net8.0\refint\Shop.ModelArea.dll
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Shop.ModelArea\obj\Debug\net8.0\Shop.ModelArea.pdb
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Shop.ModelArea\obj\Debug\net8.0\ref\Shop.ModelArea.dll
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Shop.ModelArea\obj\Debug\net8.0\Shop.ModelArea.csproj.AssemblyReference.cache

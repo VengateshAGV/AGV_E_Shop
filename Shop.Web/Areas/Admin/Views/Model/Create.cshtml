@@ -1,0 +1,203 @@
+﻿@model Shop.ModelArea.Models.VModel.BrandModelVM
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>BrandModel</h4>
+<hr />
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <form asp-action="Create" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.Name" class="control-label"></label>
+                                <input asp-for="@Model.BrandModel.Name" class="form-control" />
+                                <span asp-validation-for="@Model.BrandModel.Name" class="text-danger"></span>
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.Image" class="control-label"></label>
+                                <input asp-for="@Model.BrandModel.Image" type="file" name="image" id="image" class="form-control" />
+                                <span asp-validation-for="@Model.BrandModel.Image" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.LounchDate" class="control-label"></label>
+                                <input asp-for="@Model.BrandModel.LounchDate" class="form-control" />
+                                <span asp-validation-for="@Model.BrandModel.LounchDate" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.ModelVersion" class="control-label"></label>
+                                <input asp-for="@Model.BrandModel.ModelVersion" class="form-control" />
+                                <span asp-validation-for="@Model.BrandModel.ModelVersion" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.BrandId" class="control-label"></label>
+                                <select asp-for="@Model.BrandModel.BrandId" class="form-control" asp-items="@Model.BrandList"></select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.ModelTypeId" class="control-label"></label>
+                                <select asp-for="@Model.BrandModel.ModelTypeId" class="form-control" asp-items="@Model.ModelTypeList"></select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.Size" class="control-label"></label>
+                                <input asp-for="@Model.BrandModel.Size" class="form-control" />
+                                <span asp-validation-for="@Model.BrandModel.Size" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.Wight" class="control-label"></label>
+                                <input asp-for="@Model.BrandModel.Wight" class="form-control" />
+                                <span asp-validation-for="@Model.BrandModel.Wight" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.Height" class="control-label"></label>
+                                <input asp-for="@Model.BrandModel.Height" class="form-control" />
+                                <span asp-validation-for="@Model.BrandModel.Height" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.Width" class="control-label"></label>
+                                <input asp-for="@Model.BrandModel.Width" class="form-control" />
+                                <span asp-validation-for="@Model.BrandModel.Width" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.Material" class="control-label"></label>
+                                <input asp-for="@Model.BrandModel.Material" class="form-control" />
+                                <span asp-validation-for="@Model.BrandModel.Material" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.Color" class="control-label"></label>
+                                <input asp-for="@Model.BrandModel.Color" class="form-control" />
+                                <span asp-validation-for="@Model.BrandModel.Color" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.Description" class="control-label"></label>
+                                <input asp-for="@Model.BrandModel.Description" class="form-control" />
+                                <span asp-validation-for="@Model.BrandModel.Description" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                   
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.Price" class="control-label"></label>
+                                <input asp-for="@Model.BrandModel.Price" class="form-control" />
+                                <span asp-validation-for="@Model.BrandModel.Price" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.Price1" class="control-label"></label>
+                                <input asp-for="@Model.BrandModel.Price1" class="form-control" />
+                                <span asp-validation-for="@Model.BrandModel.Price1" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.DisCount" class="control-label"></label>
+                                <select asp-for="@Model.BrandModel.DisCount" class="form-control" asp-items="@Model.DisCountList" ></select>
+                                <span asp-validation-for="@Model.BrandModel.DisCount" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.Rattings" class="control-label"></label>
+                                <input asp-for="@Model.BrandModel.Rattings" class="form-control" />
+                                <span asp-validation-for="@Model.BrandModel.Rattings" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <label asp-for="@Model.BrandModel.Count" class="control-label"></label>
+                                <input asp-for="@Model.BrandModel.Count" class="form-control" />
+                                <span asp-validation-for="@Model.BrandModel.Count" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="mb-lg-3">
+                            <div class="form-group">
+                                <input type="submit" value="Create" class="btn btn-primary" />
+                            </div>
+                        </div>
+                    </div>
+                </div>   
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index" class="btn btn-danger">Back to List</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

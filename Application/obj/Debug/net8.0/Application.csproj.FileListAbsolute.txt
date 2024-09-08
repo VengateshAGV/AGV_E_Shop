@@ -1,0 +1,15 @@
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Application\bin\Debug\net8.0\Application.dll
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Application\obj\Debug\net8.0\Application.dll
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Application\bin\Debug\net8.0\Shop.ModelArea.dll
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Application\bin\Debug\net8.0\Shop.ModelArea.pdb
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\Venka\Desktop\.net mvc\AGV_E_Shop _2.0\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date

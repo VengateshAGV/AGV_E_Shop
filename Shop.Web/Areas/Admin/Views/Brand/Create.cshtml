@@ -1,0 +1,70 @@
+﻿@model Shop.ModelArea.Models.VModel.BrandVM
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Brand</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-area="Admin"  asp-action="Create" enctype="multipart/form-data" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="@Model.Brand.BrandName" class="control-label"></label>
+                <input asp-for="@Model.Brand.BrandName" class="form-control" />
+                <span asp-validation-for="@Model.Brand.BrandName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Brand.BrandLogo" class="control-label"></label>
+                <input asp-for="@Model.Brand.BrandLogo" type="file" name="logo" id="logo" class="form-control" />
+                <span asp-validation-for="@Model.Brand.BrandLogo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Brand.Street" class="control-label"></label>
+                <input asp-for="@Model.Brand.Street" class="form-control" />
+                <span asp-validation-for="@Model.Brand.Street" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Brand.City" class="control-label"></label>
+                <input asp-for="@Model.Brand.City" class="form-control" />
+                <span asp-validation-for="@Model.Brand.City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Brand.State" class="control-label"></label>
+                <input asp-for="@Model.Brand.State" class="form-control" />
+                <span asp-validation-for="@Model.Brand.State" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Brand.Cuntry" class="control-label"></label>
+                <select asp-for="@Model.Brand.Cuntry" class="form-control" asp-items="@Model.CunteryList" ></select>
+                <span asp-validation-for="@Model.Brand.Cuntry" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Brand.PhoneNumber" class="control-label"></label>
+                <input asp-for="@Model.Brand.PhoneNumber" class="form-control" />
+                <span asp-validation-for="@Model.Brand.PhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Brand.PostalCode" class="control-label"></label>
+                <input asp-for="@Model.Brand.PostalCode" class="form-control" />
+                <span asp-validation-for="@Model.Brand.PostalCode" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-area="Admin" asp-controller="Brand" asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

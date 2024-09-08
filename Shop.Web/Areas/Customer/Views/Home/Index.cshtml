@@ -1,0 +1,131 @@
+﻿@using Shop.ModelArea.Models.VModel
+@model HomePostVM
+
+<div class="container-fluid ">
+    <div class=" row">
+        <div class="col-md-12">
+            <form method="post">
+                <div class="row align-item-center justify-content-center">
+                    <div class="col-md-2">
+                        <div class="mb-1">
+                            <label class="form-label">Brand Name</label>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="mb-1">
+                            <label class="form-label">Brand</label>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="mb-1">
+                            <label class="form-label">Brand Type</label>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                    </div>
+                    <div class="col-md-2">
+                    </div>
+                    <div class="row align-item-center justify-content-center">
+                        <div class="col-md-2">
+                            <div class="mb-3">
+                                <input asp-for="@Model.SearchBox" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="mb-3">
+                                <select asp-for="@Model.BrandId" asp-items="@Model.BrandList" class="form-select">
+                                    <optgroup label="Select Brand's">
+                                    <option value="@Guid.Empty">All</option>
+                                    </optgroup>
+                                    <button class="btn btn-light" type="submit">Search</button>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="mb-3">
+                                <select  asp-items="@Model.ModelTypeList" class="form-select">
+                                    <optgroup label="Select Prodect Type's">
+                                    <option value="@Guid.Empty">All</option>
+                                    </optgroup>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="mb-3">
+                                <button class="btn btn-light" type="submit">Search</button>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="mb-3">
+                                <a herf="@Url.Action("Index", new {Page = 1 , resetFilter = true})" class="btn btn-primary form-control">Reset</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+
+        </div>
+
+    </div>
+
+</div>
+
+@if (Model.BrandModel.Count > 0)
+{
+    <div class="container p-4">
+        <div class="row">
+            @foreach (var item in Model.BrandModel)
+            {
+                <div class="col-md-3">
+                    <div class="card  mb-2 bg-light rounded">
+                        <div class="card-header">
+                            
+                            <img src="@item.Image" width="100%" />
+                        </div>
+                        <div class="card-body bg-light">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="fw-bold" >
+                                        <p>@item.Name</p>
+                                    </div>
+                                    <div class="d-inline-flex " >
+                                        <a class="btn">
+                                            Price in Rupee's'
+                                            <span class="fw-bold">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-currency-rupee" viewBox="0 0 16 16">
+                                                    <path d="M4 3.06h2.726c1.22 0 2.12.575 2.325 1.724H4v1.051h5.051C8.855 7.001 8 7.558 6.788 7.558H4v1.317L8.437 14h2.11L6.095 8.884h.855c2.316-.018 3.465-1.476 3.688-3.049H12V4.784h-1.345c-.08-.778-.357-1.335-.793-1.732H12V2H4z" />
+                                                </svg>
+                                                @item.Price
+                                            </span>
+                                        </a>
+                                    </div>
+
+                                    <p class="text-truncate"> @item.Description</p>
+                                    <div class="">
+                                        <img src="@item.Brand.BrandLogo" width="20%" />
+                                        <p class="text-opacity-100 text-uppercase">@item.Brand.BrandName</p>
+                                        <a class="btn" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            }
+        </div>
+    </div>
+
+}
+else
+{
+    <div class="container">
+        <div class=" row">
+            <div class="col-md-12">
+                <h2>No record</h2>
+            </div>
+        </div>
+    </div>
+
+}
+

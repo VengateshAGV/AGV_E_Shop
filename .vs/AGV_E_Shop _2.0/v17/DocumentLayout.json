@@ -1,0 +1,666 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFD587A-FF26-4950-A44B-AF9F73462AF3}|Shop.ModelArea\\Shop.ModelArea.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.modelarea\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFD587A-FF26-4950-A44B-AF9F73462AF3}|Shop.ModelArea\\Shop.ModelArea.csproj|solutionrelative:shop.modelarea\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\customer\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\customer\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\customer\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\customer\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\customer\\views\\payment\\cencel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\customer\\views\\payment\\cencel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\customer\\views\\payment\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\customer\\views\\payment\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFD587A-FF26-4950-A44B-AF9F73462AF3}|Shop.ModelArea\\Shop.ModelArea.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.modelarea\\models\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFD587A-FF26-4950-A44B-AF9F73462AF3}|Shop.ModelArea\\Shop.ModelArea.csproj|solutionrelative:shop.modelarea\\models\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\admin\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\admin\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\admin\\controllers\\modeltypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\admin\\controllers\\modeltypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\admin\\controllers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\admin\\controllers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\customer\\controllers\\brandpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\customer\\controllers\\brandpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\admin\\views\\model\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\admin\\views\\model\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFD587A-FF26-4950-A44B-AF9F73462AF3}|Shop.ModelArea\\Shop.ModelArea.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.modelarea\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFD587A-FF26-4950-A44B-AF9F73462AF3}|Shop.ModelArea\\Shop.ModelArea.csproj|solutionrelative:shop.modelarea\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\admin\\views\\modeltype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\admin\\views\\modeltype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\admin\\views\\model\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\admin\\views\\model\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\admin\\views\\model\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\admin\\views\\model\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2FDAE0-6289-421E-A375-317C58484151}|DataConnections\\DataConnections.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\dataconnections\\repositories\\brandmodelrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2FDAE0-6289-421E-A375-317C58484151}|DataConnections\\DataConnections.csproj|solutionrelative:dataconnections\\repositories\\brandmodelrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\admin\\views\\model\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\admin\\views\\model\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFD587A-FF26-4950-A44B-AF9F73462AF3}|Shop.ModelArea\\Shop.ModelArea.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.modelarea\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFD587A-FF26-4950-A44B-AF9F73462AF3}|Shop.ModelArea\\Shop.ModelArea.csproj|solutionrelative:shop.modelarea\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\admin\\views\\brand\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\admin\\views\\brand\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.web\\areas\\admin\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16E0E6DB-A6CC-49F1-BBA5-DDB8FAC25EE1}|Shop.Web\\Shop.Web.csproj|solutionrelative:shop.web\\areas\\admin\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFD587A-FF26-4950-A44B-AF9F73462AF3}|Shop.ModelArea\\Shop.ModelArea.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.modelarea\\models\\vmodel\\homepostvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFD587A-FF26-4950-A44B-AF9F73462AF3}|Shop.ModelArea\\Shop.ModelArea.csproj|solutionrelative:shop.modelarea\\models\\vmodel\\homepostvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2FDAE0-6289-421E-A375-317C58484151}|DataConnections\\DataConnections.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\dataconnections\\repositories\\brandrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2FDAE0-6289-421E-A375-317C58484151}|DataConnections\\DataConnections.csproj|solutionrelative:dataconnections\\repositories\\brandrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFD587A-FF26-4950-A44B-AF9F73462AF3}|Shop.ModelArea\\Shop.ModelArea.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.modelarea\\models\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFD587A-FF26-4950-A44B-AF9F73462AF3}|Shop.ModelArea\\Shop.ModelArea.csproj|solutionrelative:shop.modelarea\\models\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFD587A-FF26-4950-A44B-AF9F73462AF3}|Shop.ModelArea\\Shop.ModelArea.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\shop.modelarea\\models\\vmodel\\brandvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFD587A-FF26-4950-A44B-AF9F73462AF3}|Shop.ModelArea\\Shop.ModelArea.csproj|solutionrelative:shop.modelarea\\models\\vmodel\\brandvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC214526-7063-4DA3-954E-7D18C2FB8FC8}|Application\\Application.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\application\\contract\\presistence\\ibrandrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC214526-7063-4DA3-954E-7D18C2FB8FC8}|Application\\Application.csproj|solutionrelative:application\\contract\\presistence\\ibrandrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2FDAE0-6289-421E-A375-317C58484151}|DataConnections\\DataConnections.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\dataconnections\\repositories\\brandpostrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2FDAE0-6289-421E-A375-317C58484151}|DataConnections\\DataConnections.csproj|solutionrelative:dataconnections\\repositories\\brandpostrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2FDAE0-6289-421E-A375-317C58484151}|DataConnections\\DataConnections.csproj|c:\\users\\venka\\desktop\\.net mvc\\agv_e_shop _2.0\\dataconnections\\migrations\\20240906072104_brandmigr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2FDAE0-6289-421E-A375-317C58484151}|DataConnections\\DataConnections.csproj|solutionrelative:dataconnections\\migrations\\20240906072104_brandmigr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.ModelArea\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Shop.ModelArea\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.ModelArea\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Shop.ModelArea\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:06:42.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Customer\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Customer\\Views\\Payment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Customer\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "Shop.Web\\Areas\\Customer\\Views\\Payment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T10:39:23.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Customer\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Customer\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Customer\\Controllers\\PaymentController.cs*",
+              "RelativeToolTip": "Shop.Web\\Areas\\Customer\\Controllers\\PaymentController.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T10:38:31.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Shop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwD0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T10:44:32.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Customer\\Views\\Payment\\Success.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Customer\\Views\\Payment\\Success.cshtml",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Customer\\Views\\Payment\\Success.cshtml",
+              "RelativeToolTip": "Shop.Web\\Areas\\Customer\\Views\\Payment\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T10:42:41.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cencel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Customer\\Views\\Payment\\Cencel.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Customer\\Views\\Payment\\Cencel.cshtml",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Customer\\Views\\Payment\\Cencel.cshtml",
+              "RelativeToolTip": "Shop.Web\\Areas\\Customer\\Views\\Payment\\Cencel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T10:42:56.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reviews.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.ModelArea\\Models\\Reviews.cs",
+              "RelativeDocumentMoniker": "Shop.ModelArea\\Models\\Reviews.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.ModelArea\\Models\\Reviews.cs",
+              "RelativeToolTip": "Shop.ModelArea\\Models\\Reviews.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T10:11:30.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Shop.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Shop.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-07T06:08:44.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "RelativeToolTip": "Shop.Web\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T07:20:04.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Shop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Program.cs",
+              "RelativeToolTip": "Shop.Web\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAlwF8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:42:52.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Shop.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\appsettings.json",
+              "RelativeToolTip": "Shop.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-07T10:22:32.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "Shop.Web\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAABBwFgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T07:20:19.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Shop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAgwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:01:53.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Shop.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwBsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T07:34:55.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Shop.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAABBwF4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T05:16:01.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModelTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Controllers\\ModelTypeController.cs",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Admin\\Controllers\\ModelTypeController.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Controllers\\ModelTypeController.cs",
+              "RelativeToolTip": "Shop.Web\\Areas\\Admin\\Controllers\\ModelTypeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:46:17.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Shop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAABBwHQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:46:42.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Shop.Web\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:02:17.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ModelController.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Controllers\\ModelController.cs",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Admin\\Controllers\\ModelController.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Controllers\\ModelController.cs",
+              "RelativeToolTip": "Shop.Web\\Areas\\Admin\\Controllers\\ModelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:47:21.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Brand\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Admin\\Views\\Brand\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Brand\\Delete.cshtml",
+              "RelativeToolTip": "Shop.Web\\Areas\\Admin\\Views\\Brand\\Delete.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAjwDAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T07:19:43.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BrandPostController.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Customer\\Controllers\\BrandPostController.cs",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Customer\\Controllers\\BrandPostController.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Customer\\Controllers\\BrandPostController.cs",
+              "RelativeToolTip": "Shop.Web\\Areas\\Customer\\Controllers\\BrandPostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:03:08.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "Shop.Web\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAMwCUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T06:07:26.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BrandModelRepositry.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\DataConnections\\Repositories\\BrandModelRepositry.cs",
+              "RelativeDocumentMoniker": "DataConnections\\Repositories\\BrandModelRepositry.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\DataConnections\\Repositories\\BrandModelRepositry.cs",
+              "RelativeToolTip": "DataConnections\\Repositories\\BrandModelRepositry.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAMwFkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:34:03.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Model\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Admin\\Views\\Model\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Model\\Delete.cshtml",
+              "RelativeToolTip": "Shop.Web\\Areas\\Admin\\Views\\Model\\Delete.cshtml",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAjwGkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T07:34:31.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Model\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Admin\\Views\\Model\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Model\\Edit.cshtml",
+              "RelativeToolTip": "Shop.Web\\Areas\\Admin\\Views\\Model\\Edit.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAjwF0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T07:34:40.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\ModelType\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Admin\\Views\\ModelType\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\ModelType\\Index.cshtml",
+              "RelativeToolTip": "Shop.Web\\Areas\\Admin\\Views\\ModelType\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T07:56:44.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.ModelArea\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Shop.ModelArea\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.ModelArea\\Models\\Brand.cs",
+              "RelativeToolTip": "Shop.ModelArea\\Models\\Brand.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:54:23.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Model\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Admin\\Views\\Model\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Model\\Index.cshtml",
+              "RelativeToolTip": "Shop.Web\\Areas\\Admin\\Views\\Model\\Index.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAvwGsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T05:41:34.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.ModelArea\\Models\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "Shop.ModelArea\\Models\\Enums\\Enums.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.ModelArea\\Models\\Enums\\Enums.cs",
+              "RelativeToolTip": "Shop.ModelArea\\Models\\Enums\\Enums.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABBwBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:11:50.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Brand\\Details.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Admin\\Views\\Brand\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Brand\\Details.cshtml",
+              "RelativeToolTip": "Shop.Web\\Areas\\Admin\\Views\\Brand\\Details.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAjwCwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T07:19:54.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240906072104_BrandMigr.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\DataConnections\\Migrations\\20240906072104_BrandMigr.cs",
+              "RelativeDocumentMoniker": "DataConnections\\Migrations\\20240906072104_BrandMigr.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\DataConnections\\Migrations\\20240906072104_BrandMigr.cs",
+              "RelativeToolTip": "DataConnections\\Migrations\\20240906072104_BrandMigr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:21:04.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BrandModel.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.ModelArea\\Models\\BrandModel.cs",
+              "RelativeDocumentMoniker": "Shop.ModelArea\\Models\\BrandModel.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.ModelArea\\Models\\BrandModel.cs",
+              "RelativeToolTip": "Shop.ModelArea\\Models\\BrandModel.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAABBwDcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:31:11.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BrandPostRepositry.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\DataConnections\\Repositories\\BrandPostRepositry.cs",
+              "RelativeDocumentMoniker": "DataConnections\\Repositories\\BrandPostRepositry.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\DataConnections\\Repositories\\BrandPostRepositry.cs",
+              "RelativeToolTip": "DataConnections\\Repositories\\BrandPostRepositry.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAABBwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:53:27.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IBrandRepositry.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Application\\Contract\\Presistence\\IBrandRepositry.cs",
+              "RelativeDocumentMoniker": "Application\\Contract\\Presistence\\IBrandRepositry.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Application\\Contract\\Presistence\\IBrandRepositry.cs",
+              "RelativeToolTip": "Application\\Contract\\Presistence\\IBrandRepositry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:32:05.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BrandRepositry.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\DataConnections\\Repositories\\BrandRepositry.cs",
+              "RelativeDocumentMoniker": "DataConnections\\Repositories\\BrandRepositry.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\DataConnections\\Repositories\\BrandRepositry.cs",
+              "RelativeToolTip": "DataConnections\\Repositories\\BrandRepositry.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAMwB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:31:27.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Model\\Create.cshtml",
+              "RelativeDocumentMoniker": "Shop.Web\\Areas\\Admin\\Views\\Model\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.Web\\Areas\\Admin\\Views\\Model\\Create.cshtml",
+              "RelativeToolTip": "Shop.Web\\Areas\\Admin\\Views\\Model\\Create.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAvwJgAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T06:17:51.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BrandVM.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.ModelArea\\Models\\VModel\\BrandVM.cs",
+              "RelativeDocumentMoniker": "Shop.ModelArea\\Models\\VModel\\BrandVM.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.ModelArea\\Models\\VModel\\BrandVM.cs",
+              "RelativeToolTip": "Shop.ModelArea\\Models\\VModel\\BrandVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:00:47.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomePostVM.cs",
+              "DocumentMoniker": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.ModelArea\\Models\\VModel\\HomePostVM.cs",
+              "RelativeDocumentMoniker": "Shop.ModelArea\\Models\\VModel\\HomePostVM.cs",
+              "ToolTip": "C:\\Users\\Venka\\Desktop\\.net mvc\\AGV_E_Shop _2.0\\Shop.ModelArea\\Models\\VModel\\HomePostVM.cs",
+              "RelativeToolTip": "Shop.ModelArea\\Models\\VModel\\HomePostVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:25:53.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
